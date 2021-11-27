@@ -1,10 +1,10 @@
---// Spamton NEO Made By SussyImposterYes#2845 Keybinds: 1 2 3 4 5
+--// Spamton NEO Made By SussyImposterYes#2845 Keybinds: 1 2 3 4 5 6
 game:GetService("Players").LocalPlayer.PlayerGui.Menu.Characs.Asriel.Visible = true
 wait(3)
 game.Players.LocalPlayer.PlayerGui.Musics.FatalError.TimePosition = "0"
 wait(2)
 --PlaceHolder SongID 5722886482
-game.Players.LocalPlayer.PlayerGui.Musics.FatalError.SoundId = "rbxassetid://6275778499"
+game.Players.LocalPlayer.PlayerGui.Musics.Asriel.SoundId = "rbxassetid://7568013510"
 local Player = game.Players.localPlayer
 local char = Player.Character
 local Character = Player.Character
@@ -115,7 +115,9 @@ Event:FireServer()
 
 local Event = game:GetService("ReplicatedStorage").InfoXChara
 Event:FireServer()
-
+wait(1)
+local Event = game:GetService("ReplicatedStorage").InfoAsriel
+Event:FireServer()
 
 
 local player = game.Players.LocalPlayer
@@ -230,6 +232,7 @@ local A_1 = "[SPAM TON NEO] ITS TIME TO BE A BIG SHOT"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
+
 
 mouse.KeyDown:connect(function(key) 
     if key == "1" then
