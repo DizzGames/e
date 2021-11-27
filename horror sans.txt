@@ -1,0 +1,262 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Characs.Chara.Visible = true
+wait(10)
+
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "1" then -- key bind
+local A_1 = "[Horror Sans] LETS BURN TOGETHER"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "2" then -- key bind
+local A_1 = "[Horror Sans] HOW ABOUT YOU HELP A STARVING FRIEND OUT =)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").SSKnifes3
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").SSKnifes1P2
+Event:FireServer()
+
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "3" then -- key bind
+local A_1 = "[Horror Sans] DIE"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack2Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1"]
+Event:FireServer()
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "4" then -- key bind
+local A_1 = "[Horror Sans] Lets have some fun =)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").DisbeliefPapyrus3
+Event:FireServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").DisbeliefPapyrus2
+Event:FireServer()
+wait(0.6)
+local Event = game:GetService("ReplicatedStorage").DisbeliefPapyrus22
+Event:FireServer()
+
+
+
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "5" then -- key bind
+local A_1 = "[Horror Sans] DIE ALREADY"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local Event = game:GetService("ReplicatedStorage").Dream2P1
+Event:FireServer()
+wait(0.7)
+local Event = game:GetService("ReplicatedStorage").Dio4Phase2
+Event:FireServer()
+wait(0.5)
+local Event = game:GetService("ReplicatedStorage").PapyrusTheLastAttack
+Event:FireServer()
+wait(6)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4
+Event:FireServer()
+
+wait(1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage")["XSans_Attack3"]
+Event:FireServer()
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "6" then -- key bind
+local A_1 = "[Horror Sans] Lets have some fun =)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local Event = game:GetService("ReplicatedStorage").MegaExplosion
+Event:FireServer()
+wait(8)
+local Event = game:GetService("ReplicatedStorage").Luffy3
+Event:FireServer()
+
+
+
+
+
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "," then -- key bind
+local A_1 = "[Horror Sans] ..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(2)
+local A_1 = "[Horror Sans] How can you kill something..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(2)
+local A_1 = "[Horror Sans] THATS ALREADY DEAD =)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1.5)
+local A_1 = "[Horror Sans] ONE HEAD DOG..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(2)
+local A_1 = "[Horror Sans] COMING UP!!!!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local Event = game:GetService("ReplicatedStorage").SpinelAttack1
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage").SpinelAttack2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage")["Asriel 3 P2"]
+Event:FireServer()
+
+
+
+
+
+
+
+
+end
+end)

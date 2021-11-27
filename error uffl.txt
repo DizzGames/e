@@ -1,0 +1,90 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Characs.FatalE.Visible = true
+wait(5)
+
+game.Players.LocalPlayer.PlayerGui.Musics.FatalError.SoundId = "rbxassetid://6196946648"
+
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Hello!";
+    Text = "Made by SussyImposteryes credits to unknow for helping me with code";
+    Duration = 8;
+})
+
+local A_1 = "[???] Huh?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[???] Who are you..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[???] Huh you wanna fight me?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[Error Sans] FATAL MISTAKE"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "1" then -- key bind
+local A_1 = "[Error Sans] Enjoy as i break you..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt3
+Event:FireServer()
+wait(0.4)
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt3
+Event:FireServer()
+wait(0.4)
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt3
+Event:FireServer()
+wait(0.4)
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt3
+Event:FireServer()
+
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "3" then -- key bind
+local A_1 = "[Error Sans] DIE ALREADY"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack2Button"]
+Event:FireServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt4
+Event:FireServer()
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "2" then -- key bind
+local A_1 = "[Error Sans] LETS SEE IF YOU CAN GET THROUGH MY STRINGS"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").FatalErrorAt1
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage")["LB_AT4Phase2"]
+Event:FireServer()
+
+
+end
+end)

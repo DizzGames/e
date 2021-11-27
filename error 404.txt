@@ -1,0 +1,420 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Characs.Frisk.Visible = true
+wait(5)
+
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Hello!";
+    Text = "Made by SussyImposteryes credits to unknow for helping me with code";
+    Duration = 8;
+})
+
+local A_1 = "[???] Huh?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[???] How did you get here?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[???] Well looks like i have another puppet to play with."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "[ERROR 404] LETS HAVE SOME FUN"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "4" then -- key bind
+local A_1 = "[Error 404] SURVIVE MY GOD RAY"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").KuramaHuge2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").KuramaHuge2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").KuramaHuge2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").KuramaHuge2
+Event:FireServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").KuramaHuge2
+Event:FireServer()
+
+
+
+
+
+
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "1" then -- key bind
+local A_1 = "[Error 404] GET AWAY FROM ME"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").Sans4
+Event:FireServer()
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "2" then -- key bind
+local A_1 = "[Error 404] Lets see how you do against my puppets..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack2Button"]
+Event:FireServer()
+wait(2.5)
+local Event = game:GetService("ReplicatedStorage").PapyrusTheLastAttack
+Event:FireServer()
+
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "3" then -- key bind
+local A_1 = "[Error 404] YOU'LL SUFFER AGAINST MY DARK BLASTERS"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1.5)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1.5)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1.5)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1.5)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+wait(1.5)
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "5" then -- key bind
+local A_1 = "[Error 404] DIE TO MY BONES"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").PapyrusSpecialAttack
+Event:FireServer()
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "6" then -- key bind
+local A_1 = "[Error 404] Go against my clones."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").NarutoRasengan3
+Event:FireServer()
+wait(2.5)
+local Event = game:GetService("ReplicatedStorage").ShurikenRas
+Event:FireServer()
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "h" then -- key bind
+local A_1 = "Error 404 Used Reincarnation"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+local Event = game:GetService("ReplicatedStorage")["XChara_Attack1Button"]
+Event:FireServer()
+end
+end)
+
+
+mouse.KeyDown:connect(function(key) 
+    if key == "7" then -- key bind
+local A_1 = "[Error 404] SURVIVE MY BEAM OF LIGHT"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Flowey1
+Event:FireServer()
+
+
+
+end
+end)
+
+mouse.KeyDown:connect(function(key) 
+    if key == "8" then -- key bind
+local A_1 = "[Error 404] ..."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+local Event = game:GetService("ReplicatedStorage").Gaster4
+Event:FireServer()
+wait(1)
+local A_1 = "[Error 404] JUST DIE ALREADY"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(0.5)
+local Event = game:GetService("ReplicatedStorage").SSKnifes4P2
+Event:FireServer()
+
+end
+end)

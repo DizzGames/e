@@ -1,0 +1,500 @@
+-- Hyperdust Made By SussyImposterYes#2845 Keybinds 1 2 3 4 5
+gameGetService(Players).LocalPlayer.PlayerGui.Menu.Characs.FatalE.Visible = true
+wait(3)
+game.Players.LocalPlayer.PlayerGui.Musics.FatalError.TimePosition = 0
+wait(2)
+--PlaceHolder SongID 5722886482
+game.Players.LocalPlayer.PlayerGui.Musics.FatalError.SoundId = rbxassetid6275778499
+local Player = game.Players.localPlayer
+local char = Player.Character
+local Character = Player.Character
+
+local Event = gameGetService(ReplicatedStorage).InfoChara
+EventFireServer()
+wait(1)
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local Event = gameGetService(ReplicatedStorage).InfoXChara
+EventFireServer()
+
+local player = game.Players.LocalPlayer
+local mouse = playerGetMouse()
+game.StarterGuiSetCore(SendNotification, {
+    Title = Made By King Dream#9746;
+    Text = Ink Sans Loaded Enjoy!;
+    Duration = 8;
+})
+
+local A_1 = [] ...
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(2)
+local A_1 = [] Heh...
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(2)
+local A_1 = [] HAHAHAHAHA
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(1.5)
+local A_1 = [] BUDDY...
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(1)
+local A_1 = [Hyper Dust Sans] LETS HAVE A MAD TIME
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+
+
+
+
+
+mouse.KeyDownconnect(function(key) 
+    if key == 1 then
+local A_1 = [HYPER DUST SANS] DIE KID
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage).Sans1GasterBlaster
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans2
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans3
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans4
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans2BTGasterBlaster
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans3BT
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Sans4BT
+EventFireServer()
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == 2 then
+local A_1 = [HYPER DUST SANS] WELCOME TO MY SPECIAL HELL
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage).Dio4Phase2
+EventFireServer()
+wait(5)
+local Event = gameGetService(ReplicatedStorage).SpinelAttack2
+EventFireServer()
+
+wait(1)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+
+
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == 3 then
+local A_1 = [HYPER DUST SANS] YOU WILL DIE TO ME
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+wait(2)
+local Event = gameGetService(ReplicatedStorage).CharaReviveAttack
+EventFireServer()
+
+
+
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == 4 then
+local A_1 = [HYPER DUST SANS] UNIVERSE DESTROY
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage).Luffy4
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).Luffy4
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).Luffy4
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).Luffy4
+EventFireServer()
+
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == 5 then
+local A_1 = [HYPER DUST SANS] JUST DIE ALREADY
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2) 
+local Event = gameGetService(ReplicatedStorage).SSKnifes3
+EventFireServer()
+wait(1.5)
+
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage).Flowey0
+EventFireServer()
+
+
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == 6 then
+local A_1 = [HYPER DUST SANS] LETS SEE HOW YOU SURVIVE THIS
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+ wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+wait(0.5)
+local Event = gameGetService(ReplicatedStorage).OrangeSlash
+EventFireServer()
+
+end
+end)
+
+mouse.KeyDownconnect(function(key) 
+    if key == , then
+local A_1 = [HYPER DUST SANS] ...
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(1)
+local A_1 = [HYPER DUST SANS] All the exp i gained...
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+wait(2)
+local A_1 = [HYPER DUST SANS] CANT GO TO WASTE
+local A_2 = All
+local Event = gameGetService(ReplicatedStorage).DefaultChatSystemChatEvents.SayMessageRequest
+EventFireServer(A_1, A_2)
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+local Event = gameGetService(ReplicatedStorage)[XChara_Attack1Button]
+EventFireServer()
+
+
+
+end
+end)
